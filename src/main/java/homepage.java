@@ -13,9 +13,10 @@ public class homepage {
     String smarttext(){
         return smart.getText();
 
-
-
-
     }
-
+    @FindBy(xpath ="//div[@id=\"qRdwfOCBq5te_ZOaz0D9bw\"]/div[1]")
+    WebElement Thewarm;
+    String Thewarmtext(){
+        return Thewarm.getText();
+    }
 }

@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a81c1b30-c4e9-4803-9f9b-0f13654667d1" name="Changes" comment="" />
+    <list default="true" id="a81c1b30-c4e9-4803-9f9b-0f13654667d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/amazontest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testpage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/homepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/homepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testpage.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,16 +43,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/AbuEmon/IdeaProjects/textclassfeb28/src/main/resources&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/AbuEmon/IdeaProjects/textclassfeb28/src/main/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
@@ -50,7 +62,19 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.testpage.smarttest">
+  <component name="RunManager" selected="TestNG.testpage.Thewarm">
+    <configuration name="testpage.Thewarm" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="textclassfeb28" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="testpage" />
+      <option name="METHOD_NAME" value="Thewarm" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testpage.c1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="textclassfeb28" />
       <option name="PACKAGE_NAME" value="" />
@@ -77,8 +101,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.testpage.smarttest" />
+        <item itemvalue="TestNG.testpage.Thewarm" />
         <item itemvalue="TestNG.testpage.c1" />
+        <item itemvalue="TestNG.testpage.smarttest" />
       </list>
     </recent_temporary>
   </component>
