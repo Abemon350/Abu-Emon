@@ -5,13 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a81c1b30-c4e9-4803-9f9b-0f13654667d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/amazontest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Alert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Demoqa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/w3school.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AlertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DemoqaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/w3schoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/homepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testpage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/setup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/setup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/amazontest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Testpage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chromedriver" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/homepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/homepage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testpage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/setup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/setup.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,17 +54,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/AbuEmon/IdeaProjects/textclassfeb28/src/main/resources",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/AbuEmon/IdeaProjects/textclassfeb28/src/main/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
@@ -62,12 +73,12 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.testpage.Thewarm">
-    <configuration name="testpage.Thewarm" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="textclassfeb28" />
+  <component name="RunManager" selected="TestNG.Testpage.Clickcareer">
+    <configuration name="Testpage.Careertext" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project01" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testpage" />
-      <option name="METHOD_NAME" value="Thewarm" />
+      <option name="MAIN_CLASS_NAME" value="Testpage" />
+      <option name="METHOD_NAME" value="Careertext" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -75,11 +86,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testpage.c1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="textclassfeb28" />
+    <configuration name="Testpage.Clickcareer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project01" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testpage" />
-      <option name="METHOD_NAME" value="c1" />
+      <option name="MAIN_CLASS_NAME" value="Testpage" />
+      <option name="METHOD_NAME" value="Clickcareer" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -87,11 +98,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testpage.smarttest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="textclassfeb28" />
+    <configuration name="Testpage.checkcareepage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project01" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="testpage" />
-      <option name="METHOD_NAME" value="smarttest" />
+      <option name="MAIN_CLASS_NAME" value="Testpage" />
+      <option name="METHOD_NAME" value="checkcareepage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testpage.scrolldowntest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testpage" />
+      <option name="METHOD_NAME" value="scrolldowntest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testpage.test9" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Project01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Testpage" />
+      <option name="METHOD_NAME" value="test9" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -101,9 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.testpage.Thewarm" />
-        <item itemvalue="TestNG.testpage.c1" />
-        <item itemvalue="TestNG.testpage.smarttest" />
+        <item itemvalue="TestNG.Testpage.Clickcareer" />
+        <item itemvalue="TestNG.Testpage.test9" />
+        <item itemvalue="TestNG.Testpage.Careertext" />
+        <item itemvalue="TestNG.Testpage.checkcareepage" />
+        <item itemvalue="TestNG.Testpage.scrolldowntest" />
       </list>
     </recent_temporary>
   </component>
